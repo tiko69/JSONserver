@@ -1,16 +1,136 @@
 {
-  "websites": [
-    { "id": 1, "website": "EcoCuisinePlus.com" },
-    { "id": 2, "website": "TechTrendz.io" },
-    { "id": 3, "website": "ZenSpaces.org" },
-    { "id": 3, "website": "AdventureGlobe.net" },
-    { "id": 3, "website": "FutureFounders.club" }
-  ],
-  "website": [
-    { "id": 1, { "body" : "#b57e57" }, { "title": "EcoCuisinePlus" }, { "h1" : "Nourrissez votre vie, préservez la planète.", "color": "#b57e57", "background-color": "#1f911f"}, { "p" : "Un site dédié aux recettes et produits alimentaires écologiques et durables. Il offre des conseils pour adopter une alimentation respectueuse de l'environnement, des recettes végétariennes, véganes, et des astuces pour réduire le gaspillage alimentaire.", "color": "#1f911f" } }, 
-    { "id": 2, { "body" : "#b57e57" }, { "title": "TechTrendz" }, { "h1" : "Innovations d'aujourd'hui, technologies de demain.", "color": "#b57e57", "background-color": "#1f911f"}, { "p" : "Un site dédié aux recettes et produits alimentaires écologiques et durables. Il offre des conseils pour adopter une alimentation respectueuse de l'environnement, des recettes végétariennes, véganes, et des astuces pour réduire le gaspillage alimentaire.", "color": "#1f911f" } }, 
-    { "id": 3, { "body" : "#b57e57" }, { "title": "ZenSpaces" }, { "h1" : "Harmonisez votre espace, illuminez votre âme.", "color": "#b57e57", "background-color": "#1f911f"}, { "p" : "Un site dédié aux recettes et produits alimentaires écologiques et durables. Il offre des conseils pour adopter une alimentation respectueuse de l'environnement, des recettes végétariennes, véganes, et des astuces pour réduire le gaspillage alimentaire.", "color": "#1f911f" } }, 
-    { "id": 4, { "body" : "#b57e57" }, { "title": "AdventureGlobe" }, { "h1" : "Explorez l'inexploré, vivez l'aventure ultime.", "color": "#b57e57", "background-color": "#1f911f"}, { "p" : "Un site dédié aux recettes et produits alimentaires écologiques et durables. Il offre des conseils pour adopter une alimentation respectueuse de l'environnement, des recettes végétariennes, véganes, et des astuces pour réduire le gaspillage alimentaire.", "color": "#1f911f" } }, 
-    { "id": 5, { "body" : "#b57e57" }, { "title": "FutureFounders" }, { "h1" : "Où les idées rencontrent l'innovation, et les rêves deviennent réalité.", "color": "#b57e57", "background-color": "#1f911f"}, { "p" : "Un site dédié aux recettes et produits alimentaires écologiques et durables. Il offre des conseils pour adopter une alimentation respectueuse de l'environnement, des recettes végétariennes, véganes, et des astuces pour réduire le gaspillage alimentaire.", "color": "#1f911f" } }, 
-  ]
+    "websites": [
+        {
+            "id": 1,
+            "website": "EcoCuisinePlus.com"
+        },
+        {
+            "id": 2,
+            "website": "TechTrendz.io"
+        },
+        {
+            "id": 3,
+            "website": "ZenSpaces.org"
+        },
+        {
+            "id": 3,
+            "website": "AdventureGlobe.net"
+        },
+        {
+            "id": 3,
+            "website": "FutureFounders.club"
+        }
+    ],
+    "website": [
+        {
+            "id": 1,
+            "body": {
+                "color": "#b57e57"
+            },
+            "title": {
+                "text": "EcoCuisinePlus"
+            },
+            "h1": {
+                "text": "Nourrissez votre vie, préservez la planète.",
+                "color": "#b57e57",
+                "background-color": "#1f911f"
+            },
+            "p": {
+                "text": "Un site dédié aux recettes et produits alimentaires écologiques et durables. Il offre des conseils pour adopter une alimentation respectueuse de l'environnement, des recettes végétariennes, véganes, et des astuces pour réduire le gaspillage alimentaire.",
+                "color": "#1f911f"
+            },
+            "img": {
+                "src": "cuisine.webp",
+                "alt": "cuisine"
+            }
+        },
+        {
+            "id": 2,
+            "body": {
+                "color": "#b57e57"
+            },
+            "title": {
+                "text": "TechTrendz"
+            },
+            "h1": {
+                "text": "Innovations d'aujourd'hui, technologies de demain.",
+                "color": "#b57e57",
+                "background-color": "#1f911f"
+            },
+            "p": {
+                "text": "Un site d'actualités et de critiques sur les dernières innovations technologiques. De l'intelligence artificielle aux gadgets du quotidien, TechTrendz.io explore les tendances technologiques qui façonnent notre futur.",
+                "color": "#1f911f"
+            },
+            "img": {
+                "src": "tech.webp",
+                "alt": "technologie"
+            }
+        },
+        {
+            "id": 3,
+            "body": {
+                "color": "#b57e57"
+            },
+            "title": {
+                "text": "ZenSpaces"
+            },
+            "h1": {
+                "text": "Harmonisez votre espace, illuminez votre âme.",
+                "color": "#b57e57",
+                "background-color": "#1f911f"
+            },
+            "p": {
+                "text": "Une plateforme dédiée au bien-être et à l'aménagement d'espaces de vie harmonieux. ZenSpaces.org propose des articles, des tutoriels et des conseils sur la méditation, le yoga, et comment créer chez soi un environnement propice à la détente et à la sérénité.",
+                "color": "#1f911f"
+            },
+            "img": {
+                "src": "zen.webp",
+                "alt": "room"
+            }
+        },
+        {
+            "id": 4,
+            "body": {
+                "color": "#b57e57"
+            },
+            "title": {
+                "text": "AdventureGlobe"
+            },
+            "h1": {
+                "text": "Explorez l'inexploré, vivez l'aventure ultime.",
+                "color": "#b57e57",
+                "background-color": "#1f911f"
+            },
+            "p": {
+                "text": "Un site pour les passionnés de voyages et d'aventures en plein air. AdventureGlobe.net partage des guides de voyage, des récits d'expéditions, et des conseils pour les voyageurs en quête d'expériences uniques et de découvertes hors des sentiers battus.",
+                "color": "#1f911f"
+            },
+            "img": {
+                "src": "adventure.webp",
+                "alt": "canyon"
+            }
+        },
+        {
+            "id": 5,
+            "body": {
+                "color": "#b57e57"
+            },
+            "title": {
+                "text": "FutureFounders"
+            },
+            "h1": {
+                "text": "Où les idées rencontrent l'innovation, et les rêves deviennent réalité.",
+                "color": "#b57e57",
+                "background-color": "#1f911f"
+            },
+            "p": {
+                "text": "Un espace en ligne destiné aux entrepreneurs et aux startups innovantes. FutureFounders.club offre des ressources, des conseils, et un réseau de soutien pour aider les jeunes entreprises à se lancer, innover et réussir dans le monde des affaires.",
+                "color": "#1f911f"
+            },
+            "img": {
+                "src": "brainstorm.webp",
+                "alt": "idea"
+            }
+        }
+    ]
 }
