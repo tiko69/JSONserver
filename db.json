@@ -1,14 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "websites": [
+    { "id": 1, "title": "EcoCuisinePlus.com" },
+    { "id": 2, "title": "TechTrendz.io" },
+    { "id": 3, "title": "ZenSpaces.org" },
+    { "id": 3, "title": "AdventureGlobe.net" },
+    { "id": 3, "title": "FutureFounders.club" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "website": [
+    { "id": 1, "title": "EcoCuisinePlus.com" },
+    { "id": 2, "title": "TechTrendz.io" },
+    { "id": 3, "title": "ZenSpaces.org" },
+    { "id": 3, "title": "AdventureGlobe.net" },
+    { "id": 3, "title": "FutureFounders.club" }
+  ]
 }
