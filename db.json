@@ -1,16 +1,16 @@
 {
   "websites": [
-    { "id": 1, "title": "EcoCuisinePlus.com" },
-    { "id": 2, "title": "TechTrendz.io" },
-    { "id": 3, "title": "ZenSpaces.org" },
-    { "id": 3, "title": "AdventureGlobe.net" },
-    { "id": 3, "title": "FutureFounders.club" }
+    { "id": 1, "website": "EcoCuisinePlus.com" },
+    { "id": 2, "website": "TechTrendz.io" },
+    { "id": 3, "website": "ZenSpaces.org" },
+    { "id": 3, "website": "AdventureGlobe.net" },
+    { "id": 3, "website": "FutureFounders.club" }
   ],
   "website": [
-    { "id": 1, "title": "EcoCuisinePlus.com" },
-    { "id": 2, "title": "TechTrendz.io" },
-    { "id": 3, "title": "ZenSpaces.org" },
-    { "id": 3, "title": "AdventureGlobe.net" },
-    { "id": 3, "title": "FutureFounders.club" }
+    { "id": 1, { "body" : "#b57e57" }, { "title": "EcoCuisinePlus" }, { "h1" : "Nourrissez votre vie, préservez la planète.", "color": "#b57e57", "background-color": "#1f911f"}, { "p" : "Un site dédié aux recettes et produits alimentaires écologiques et durables. Il offre des conseils pour adopter une alimentation respectueuse de l'environnement, des recettes végétariennes, véganes, et des astuces pour réduire le gaspillage alimentaire.", "color": "#1f911f" } }, 
+    { "id": 2, { "body" : "#b57e57" }, { "title": "TechTrendz" }, { "h1" : "Innovations d'aujourd'hui, technologies de demain.", "color": "#b57e57", "background-color": "#1f911f"}, { "p" : "Un site dédié aux recettes et produits alimentaires écologiques et durables. Il offre des conseils pour adopter une alimentation respectueuse de l'environnement, des recettes végétariennes, véganes, et des astuces pour réduire le gaspillage alimentaire.", "color": "#1f911f" } }, 
+    { "id": 3, { "body" : "#b57e57" }, { "title": "ZenSpaces" }, { "h1" : "Harmonisez votre espace, illuminez votre âme.", "color": "#b57e57", "background-color": "#1f911f"}, { "p" : "Un site dédié aux recettes et produits alimentaires écologiques et durables. Il offre des conseils pour adopter une alimentation respectueuse de l'environnement, des recettes végétariennes, véganes, et des astuces pour réduire le gaspillage alimentaire.", "color": "#1f911f" } }, 
+    { "id": 4, { "body" : "#b57e57" }, { "title": "AdventureGlobe" }, { "h1" : "Explorez l'inexploré, vivez l'aventure ultime.", "color": "#b57e57", "background-color": "#1f911f"}, { "p" : "Un site dédié aux recettes et produits alimentaires écologiques et durables. Il offre des conseils pour adopter une alimentation respectueuse de l'environnement, des recettes végétariennes, véganes, et des astuces pour réduire le gaspillage alimentaire.", "color": "#1f911f" } }, 
+    { "id": 5, { "body" : "#b57e57" }, { "title": "FutureFounders" }, { "h1" : "Où les idées rencontrent l'innovation, et les rêves deviennent réalité.", "color": "#b57e57", "background-color": "#1f911f"}, { "p" : "Un site dédié aux recettes et produits alimentaires écologiques et durables. Il offre des conseils pour adopter une alimentation respectueuse de l'environnement, des recettes végétariennes, véganes, et des astuces pour réduire le gaspillage alimentaire.", "color": "#1f911f" } }, 
   ]
 }
