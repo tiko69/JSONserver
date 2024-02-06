@@ -27,9 +27,7 @@
             "body": {
                 "color": "#b57e57"
             },
-            "title": {
-                "text": "EcoCuisinePlus"
-            },
+            "title":  "EcoCuisinePlus",
             "h1": {
                 "text": "Nourrissez votre vie, préservez la planète.",
                 "color": "#b57e57",
@@ -49,9 +47,7 @@
             "body": {
                 "color": "#b57e57"
             },
-            "title": {
-                "text": "TechTrendz"
-            },
+            "title": "TechTrendz",
             "h1": {
                 "text": "Innovations d'aujourd'hui, technologies de demain.",
                 "color": "#b57e57",
@@ -71,9 +67,7 @@
             "body": {
                 "color": "#b57e57"
             },
-            "title": {
-                "text": "ZenSpaces"
-            },
+            "title": "ZenSpaces",
             "h1": {
                 "text": "Harmonisez votre espace, illuminez votre âme.",
                 "color": "#b57e57",
@@ -93,9 +87,7 @@
             "body": {
                 "color": "#b57e57"
             },
-            "title": {
-                "text": "AdventureGlobe"
-            },
+            "title": "AdventureGlobe",
             "h1": {
                 "text": "Explorez l'inexploré, vivez l'aventure ultime.",
                 "color": "#b57e57",
@@ -115,9 +107,7 @@
             "body": {
                 "color": "#b57e57"
             },
-            "title": {
-                "text": "FutureFounders"
-            },
+            "title": "FutureFounders",
             "h1": {
                 "text": "Où les idées rencontrent l'innovation, et les rêves deviennent réalité.",
                 "color": "#b57e57",
