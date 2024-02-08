@@ -45,17 +45,17 @@
         {
             "id": 2,
             "body": {
-                "color": "#b57e57"
+                "color": "#3271a8"
             },
             "title": "TechTrendz",
             "h1": {
                 "text": "Innovations d'aujourd'hui, technologies de demain.",
-                "color": "#b57e57",
-                "background-color": "#1f911f"
+                "color": "#3271a8",
+                "background-color": "#bfcdd9"
             },
             "p": {
                 "text": "Un site d'actualités et de critiques sur les dernières innovations technologiques. De l'intelligence artificielle aux gadgets du quotidien, TechTrendz.io explore les tendances technologiques qui façonnent notre futur.",
-                "color": "#1f911f"
+                "color": "#bfcdd9"
             },
             "img": {
                 "src": "tech.webp",
@@ -65,17 +65,17 @@
         {
             "id": 3,
             "body": {
-                "color": "#b57e57"
+                "color": "#5eb851"
             },
             "title": "ZenSpaces",
             "h1": {
                 "text": "Harmonisez votre espace, illuminez votre âme.",
-                "color": "#b57e57",
-                "background-color": "#1f911f"
+                "color": "#5eb851",
+                "background-color": "#deddb4"
             },
             "p": {
                 "text": "Une plateforme dédiée au bien-être et à l'aménagement d'espaces de vie harmonieux. ZenSpaces.org propose des articles, des tutoriels et des conseils sur la méditation, le yoga, et comment créer chez soi un environnement propice à la détente et à la sérénité.",
-                "color": "#1f911f"
+                "color": "#deddb4"
             },
             "img": {
                 "src": "zen.webp",
@@ -85,17 +85,17 @@
         {
             "id": 4,
             "body": {
-                "color": "#b57e57"
+                "color": "#4b28c9"
             },
             "title": "AdventureGlobe",
             "h1": {
                 "text": "Explorez l'inexploré, vivez l'aventure ultime.",
-                "color": "#b57e57",
-                "background-color": "#1f911f"
+                "color": "#4b28c9",
+                "background-color": "#eda405"
             },
             "p": {
                 "text": "Un site pour les passionnés de voyages et d'aventures en plein air. AdventureGlobe.net partage des guides de voyage, des récits d'expéditions, et des conseils pour les voyageurs en quête d'expériences uniques et de découvertes hors des sentiers battus.",
-                "color": "#1f911f"
+                "color": "#eda405"
             },
             "img": {
                 "src": "adventure.webp",
@@ -105,17 +105,17 @@
         {
             "id": 5,
             "body": {
-                "color": "#b57e57"
+                "color": "#915c3c"
             },
             "title": "FutureFounders",
             "h1": {
                 "text": "Où les idées rencontrent l'innovation, et les rêves deviennent réalité.",
-                "color": "#b57e57",
-                "background-color": "#1f911f"
+                "color": "#915c3c",
+                "background-color": "#84afb5"
             },
             "p": {
                 "text": "Un espace en ligne destiné aux entrepreneurs et aux startups innovantes. FutureFounders.club offre des ressources, des conseils, et un réseau de soutien pour aider les jeunes entreprises à se lancer, innover et réussir dans le monde des affaires.",
-                "color": "#1f911f"
+                "color": "#84afb5"
             },
             "img": {
                 "src": "brainstorm.webp",
